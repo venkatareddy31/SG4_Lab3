@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+     <key>CFBundleName</key>
+     <string>RomotiveSDK</string>
+     <key>CFBundleIdentifier</key>
+     <string>com.romotive.RomotiveSDK</string>
+     <key>CFBundleVersion</key>
+     <string>1.0</string>
+     <key>DocSetFeedName</key>
+     <string>Romotive SDK Documentation</string>
+     <key>DocSetPublisherIdentifier</key>
+     <string>com.romotive.Romotive</string>
+     <key>DocSetPublisherName</key>
+     <string>Romotive, Inc.</string>
+     <key>DashDocSetFamily</key>
+     <string>doxy</string>
+     <key>DocSetPlatformFamily</key>
+     <string>doxygen</string>
+</dict>
+</plist>
